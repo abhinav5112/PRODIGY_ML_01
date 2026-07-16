@@ -1,6 +1,6 @@
-# 🏠 House Price Prediction using Linear Regression
+# House Price Prediction using Linear Regression
 
-## 📌 Objective
+## Objective
 
 The objective of this project is to build a Linear Regression model that predicts house prices based on:
 
@@ -10,7 +10,7 @@ The objective of this project is to build a Linear Regression model that predict
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Source:** Kaggle - House Prices: Advanced Regression Techniques
 
@@ -20,7 +20,7 @@ Dataset File:
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -32,7 +32,7 @@ Dataset File:
 
 ---
 
-## 📊 Features Used
+## Features Used
 
 | Feature | Description |
 |---------|-------------|
@@ -46,7 +46,7 @@ Target Variable:
 
 ---
 
-## 🤖 Machine Learning Workflow
+## Machine Learning Workflow
 
 1. Load Dataset
 2. Explore Dataset
@@ -60,7 +60,7 @@ Target Variable:
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 | Metric | Value |
 |---------|---------|
@@ -70,7 +70,7 @@ Target Variable:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Task-01
@@ -94,7 +94,7 @@ Task-01
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Abhinav Kumar**
 
